@@ -1,0 +1,26 @@
+# Units
+# Length: m
+# Mass: kg
+
+chassis:
+    length: 1.0
+    width: 0.6
+    height: 0.15
+    mass: 88.4
+    x_cg: 0.0
+    y_cg: 0.0
+    z_cg: 0.355
+
+wheel:
+    radius: &radius 0.195
+    width: 0.09
+    mass: 3.0
+    x_cg: 0.5
+    y_cg: 0.4
+    z_cg: *radius
+    
+hub:
+    radius: 0.063
+    length: 0.258
+    mass: 11.1
+ 

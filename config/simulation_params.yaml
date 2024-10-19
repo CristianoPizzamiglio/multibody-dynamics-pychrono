@@ -1,0 +1,22 @@
+# Units
+# Linear velocity: km/h
+# Angle: deg
+# Time: s
+
+# Mode: 0 = Construction; 1 = Simulation
+mode: 0
+
+# Simulation Scenario ID: 0 = Manual inputs; 1 = straight_line_constant_speed; 2 = steering_motors_no_motion
+scenario_id: 1
+
+linear_velocity: -1.0
+
+steering_angle: 0.0
+ 
+slope: 0.0
+
+friction: 0.7
+
+time_step: 0.005
+
+total_time: 10.0
