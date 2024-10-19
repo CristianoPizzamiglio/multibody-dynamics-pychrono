@@ -4,7 +4,7 @@
 # Time: s
 
 # Mode: 0 = Construction; 1 = Simulation
-mode: 0
+mode: 1
 
 # Simulation Scenario ID: 0 = Manual inputs; 1 = straight_line_constant_speed; 2 = steering_motors_no_motion
 scenario_id: 1
